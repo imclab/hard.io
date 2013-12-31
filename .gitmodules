@@ -1,0 +1,15 @@
+[submodule "tabby"]
+	path = tabby
+	url = https://github.com/catid/tabby
+[submodule "calico"]
+	path = calico
+	url = https://github.com/catid/calico
+[submodule "libcat"]
+	path = libcat
+	url = https://github.com/catid/libcat
+[submodule "wirehair"]
+	path = wirehair
+	url = https://github.com/catid/wirehair
+[submodule "sphynx"]
+	path = sphynx
+	url = https://github.com/catid/sphynx
